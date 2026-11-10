@@ -1,7 +1,7 @@
 # Maxfiylik siyosati
 
 **Oxirgi yangilanish:** 2026-yil 10-noyabr
-**Versiya:** 2.0
+**Versiya:** 2.1
 
 Ushbu siyosat "Student Club" mobil ilovasi (keyingi o'rinlarda - **Ilova**) qanday shaxsga doir ma'lumotlarni yig'ishi, ulardan nima maqsadda foydalanishi, qanday himoya qilishi va Sizning huquqlaringizni tushuntiradi. Ilova O'zbekiston universitetlari talabalari uchun mo'ljallangan: kursdoshlar bilan tanishish, klublarga qo'shilish, xabar almashish, e'lonlar va talabalar uchun chegirmalar.
 

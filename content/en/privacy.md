@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Last updated:** 10 November 2026
-**Version:** 2.0
+**Version:** 2.1
 
 This policy explains what personal data the **Student Club** mobile app (the **App**) collects, why we use it, how we protect it and what rights you have. The App is made for university students in Uzbekistan: meeting classmates, joining clubs, messaging, listings and student discounts.
 
