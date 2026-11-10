@@ -19,15 +19,13 @@ Telefon: +998 93 384 11 41
 
 ### 2.1. Siz bevosita beradigan ma'lumotlar
 
-| Ma'lumot | Qachon | Nima uchun |
-|---|---|---|
-| Telefon raqami | Ro'yxatdan o'tish va kirish | Hisob yaratish, SMS kod bilan tasdiqlash, hisobni himoya qilish |
-| Google hisobi (ism, email) | Faqat Google orqali kirishni tanlasangiz | Hisobga kirish |
-| Ism va familiya, universitet | Profilni to'ldirganda | Sizni boshqa talabalarga ko'rsatish, universitetdoshlar bilan bog'lash |
-| Universitet emaili (ixtiyoriy) | Profilda | Hisob bo'yicha aloqa |
-| Profil surati | Siz yuklaganingizda | Profilni ko'rsatish |
-| Kontent: e'lonlar, hikoyalar, postlar, guruh va chat xabarlari, rasm, video va ovozli xabarlar | Siz yaratganingiz yoki yuborganingizda | Xizmatni ko'rsatish: kontentni joylash va xabarlarni yetkazish |
-| Shikoyat va qo'llab-quvvatlash murojaatlari | Murojaat qilganingizda | Shikoyatlarni ko'rib chiqish, savollarga javob berish |
+- **Telefon raqami** - hisob yaratish, SMS kod bilan kirish va hisobni himoya qilish uchun;
+- **Google hisobi (ism, email)** - faqat Google orqali kirishni tanlasangiz;
+- **Ism, familiya va universitet** - sizni boshqa talabalarga ko'rsatish va universitetdoshlar bilan bog'lash uchun;
+- **Universitet emaili** (ixtiyoriy) - hisob bo'yicha aloqa uchun;
+- **Profil surati** - agar yuklasangiz;
+- **Siz yaratgan kontent** - e'lonlar, hikoyalar, postlar, guruh va chat xabarlari, rasm, video va ovozli xabarlar;
+- **Shikoyat va murojaatlar** - ularni ko'rib chiqish va javob berish uchun.
 
 ### 2.2. Joylashuv
 
@@ -47,15 +45,13 @@ Xizmat ishlashi va xavfsizligi uchun: foydalanuvchi va qurilma identifikatori, p
 
 ## 3. Ma'lumotlardan foydalanish maqsadlari
 
-| Maqsad | Huquqiy asos |
-|---|---|
-| Hisob yaratish va kirish, telefon raqamini SMS kod bilan tasdiqlash | Xizmatni ko'rsatish |
-| Sizni universitetdoshlaringiz bilan bog'lash, profil va kontentni ko'rsatish | Xizmatni ko'rsatish |
-| Xabarlar va bildirishnomalarni yetkazish | Xizmatni ko'rsatish |
-| E'lon va chegirmalargacha masofani ko'rsatish | Rozilik (joylashuv ruxsati) |
-| Pullik xizmatlar uchun to'lov qabul qilish | Xizmatni ko'rsatish |
-| Shikoyatlarni ko'rib chiqish, firibgarlik va suiiste'molning oldini olish | Qonuniy manfaat, xavfsizlik |
-| Buxgalteriya va soliq hisobi, davlat organlari so'rovlari | Qonun talabi |
+- hisob yaratish va unga kirish;
+- sizni universitetdoshlaringiz bilan bog'lash, profil va kontentni ko'rsatish;
+- xabarlar va bildirishnomalarni yetkazish;
+- e'lon va chegirmalargacha masofani ko'rsatish (faqat ruxsat bersangiz);
+- pullik xizmatlar uchun to'lov qabul qilish;
+- shikoyatlarni ko'rib chiqish, firibgarlik va suiiste'molning oldini olish;
+- qonunda belgilangan hisobot va davlat organlari so'rovlariga javob berish.
 
 Biz ma'lumotlaringizni **sotmaymiz** va uchinchi tomon reklamasi uchun ishlatmaymiz.
 
@@ -78,7 +74,7 @@ Ma'lumot faqat xizmatni ko'rsatish uchun zarur hajmda quyidagilarga uzatiladi:
 
 ## 6. Ma'lumotlar qayerda saqlanadi
 
-Ma'lumotlar Hetzner Online GmbH kompaniyasining Germaniyadagi (Nürnberg shahri) data-markazida joylashgan serverlarda saqlanadi. Germaniya Yevropa Ittifoqi davlati bo'lib, u yerda shaxsga doir ma'lumotlarni himoya qilish bo'yicha qat'iy talablar (GDPR) amal qiladi. Ilovadan foydalanish orqali Siz ma'lumotlaringiz shu tarzda O'zbekistondan tashqarida saqlanishi va qayta ishlanishiga rozilik bildirasiz.
+Ma'lumotlar Hetzner Online GmbH kompaniyasining Germaniyadagi (Nürnberg shahri) serverlarida saqlanadi. Ilovadan foydalanish orqali Siz ma'lumotlaringiz shu tarzda O'zbekistondan tashqarida saqlanishi va qayta ishlanishiga rozilik bildirasiz.
 
 ## 7. Qancha muddat saqlanadi
 
@@ -121,7 +117,4 @@ Siyosat yangilanishi mumkin. Muhim o'zgarishlar haqida Ilova orqali oldindan xab
 
 ## 12. Aloqa
 
-**YaTT Qo'shshayev Qahhor G'afurovich** ("Student Club")
-Email: quvonchbekgafurov07@gmail.com
-Telefon: +998 93 384 11 41
-Manzil: Toshkent shahri, Yunusobod tumani, 14-mavze, 4-uy, 5-xonadon
+Savol va so'rovlar uchun: quvonchbekgafurov07@gmail.com, +998 93 384 11 41.

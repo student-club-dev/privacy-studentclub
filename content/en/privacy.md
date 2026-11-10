@@ -19,15 +19,13 @@ Phone: +998 93 384 11 41
 
 ### 2.1. Data you give us
 
-| Data | When | Why |
-|---|---|---|
-| Phone number | Sign-up and sign-in | Creating your account, SMS code verification, account protection |
-| Google account (name, email) | Only if you choose to sign in with Google | Signing in |
-| First and last name, university | When you fill in your profile | Showing you to other students, connecting you with classmates |
-| University email (optional) | In your profile | Contacting you about your account |
-| Profile photo | When you upload one | Showing your profile |
-| Content: listings, stories, posts, group and chat messages, photos, videos and voice messages | When you create or send it | Providing the service: publishing content and delivering messages |
-| Reports and support requests | When you contact us | Reviewing reports and answering questions |
+- **Phone number** - to create your account, sign in with an SMS code and protect your account;
+- **Google account (name, email)** - only if you choose to sign in with Google;
+- **First and last name, university** - to show you to other students and connect you with classmates;
+- **University email** (optional) - to contact you about your account;
+- **Profile photo** - if you upload one;
+- **Your content** - listings, stories, posts, group and chat messages, photos, videos and voice messages;
+- **Reports and requests** - so we can review them and reply.
 
 ### 2.2. Location
 
@@ -47,15 +45,13 @@ To run and secure the service: user and device identifiers, push notification to
 
 ## 3. Why we use your data
 
-| Purpose | Legal basis |
-|---|---|
-| Creating your account and signing in, verifying your phone number with an SMS code | Providing the service |
-| Connecting you with classmates, showing your profile and content | Providing the service |
-| Delivering messages and notifications | Providing the service |
-| Showing the distance to listings and discounts | Consent (location permission) |
-| Accepting payment for paid features | Providing the service |
-| Reviewing reports, preventing fraud and abuse | Legitimate interest, security |
-| Accounting, tax records and requests from authorities | Legal obligation |
+- creating your account and signing you in;
+- connecting you with classmates, showing your profile and content;
+- delivering messages and notifications;
+- showing the distance to listings and discounts (only with your permission);
+- accepting payment for paid features;
+- reviewing reports, preventing fraud and abuse;
+- legally required reporting and requests from authorities.
 
 We **do not sell** your data and do not use it for third-party advertising.
 
@@ -78,7 +74,7 @@ We share data only as far as needed to provide the service:
 
 ## 6. Where data is stored
 
-Data is stored on servers in a Hetzner Online GmbH data centre in Nuremberg, Germany. Germany is a member of the European Union, where strict personal data protection rules (GDPR) apply. By using the App, you agree that your data is stored and processed outside Uzbekistan in this way.
+Data is stored on Hetzner Online GmbH servers in Nuremberg, Germany. By using the App, you agree that your data is stored and processed outside Uzbekistan in this way.
 
 ## 7. How long we keep data
 
@@ -121,7 +117,4 @@ We may update this policy. We will tell you about significant changes in the App
 
 ## 12. Contact
 
-**Sole proprietor Qo'shshayev Qahhor G'afurovich** ("Student Club")
-Email: quvonchbekgafurov07@gmail.com
-Phone: +998 93 384 11 41
-Address: Apt. 5, Bldg. 4, Block 14, Yunusabad District, Tashkent, Uzbekistan
+For questions and requests: quvonchbekgafurov07@gmail.com, +998 93 384 11 41.
