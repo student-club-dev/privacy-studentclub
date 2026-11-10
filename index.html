@@ -1,26 +1,22 @@
 <!doctype html>
-<html lang="en">
+<html lang="uz">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Student Club</title>
-<style>
-  :root { --bg:#fff; --fg:#1a1d24; --muted:#5b6170; --accent:#2563eb; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#0f1115; --fg:#e8eaef; --muted:#9aa1ae; --accent:#6ea0ff; } }
-  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 -apple-system, "Segoe UI", Roboto, sans-serif; }
-  main { max-width:760px; margin:0 auto; padding:48px 16px; }
-  a { color:var(--accent); } p { color:var(--muted); }
-</style>
+<script>
+  (function () {
+    var l = (navigator.language || "uz").slice(0, 2).toLowerCase();
+    var lang = l === "ru" ? "ru" : l === "en" ? "en" : "uz";
+    var base = location.pathname.indexOf("/legal/") === 0 ? "/legal/" : "/";
+    location.replace(base + lang + "/index.html");
+  })();
+</script>
 </head>
 <body>
-<main>
-<h1>Student Club</h1>
-<p>A mobile app that connects university students in Uzbekistan. Developer: Topshiriq.uz</p>
-<ul>
-  <li><a href="privacy.html">Privacy Policy</a></li>
-  <li><a href="child-safety.html">Child Safety Standards</a></li>
-</ul>
-<p>Contact: <a href="mailto:quvonchbekgafurov07@gmail.com">quvonchbekgafurov07@gmail.com</a></p>
+<main class="wrap">
+  <h1>Student Club</h1>
+  <p><a href="uz/index.html">O'zbekcha</a> · <a href="ru/index.html">Русский</a> · <a href="en/index.html">English</a></p>
 </main>
 </body>
 </html>
