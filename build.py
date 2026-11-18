@@ -115,7 +115,9 @@ def render(md: str):
 
     def flush_list():
         if items:
-            parts.append("<ul>" + "".join(f"<li>{inline(i)}</li>" for i in items) + "</ul>")
+            lettered = all(re.match(r"[a-z]\) ", i) for i in items)
+            tag = '<ul class="lettered">' if lettered else "<ul>"
+            parts.append(tag + "".join(f"<li>{inline(i)}</li>" for i in items) + "</ul>")
             items.clear()
 
     def flush_table():

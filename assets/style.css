@@ -67,6 +67,7 @@ a { color: var(--link); overflow-wrap: anywhere; }
 .doc h3 { margin: 22px 0 6px; font-size: 17px; scroll-margin-top: 120px; }
 .doc p { margin: 10px 0; }
 .doc ul { padding-left: 22px; }
+.doc ul.lettered { list-style: none; padding-left: 8px; }
 .doc li { margin: 4px 0; }
 .note { background: var(--soft); border-left: 4px solid var(--yellow); padding: 10px 14px; border-radius: 6px; color: var(--muted); }
 .toc { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 18px; margin: 18px 0 8px; }
